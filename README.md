@@ -13,5 +13,5 @@
 * Sql and MySql are the are the databases that will be managed
 * Java and Python
 * 
-<p></p> text-decoration: none, align="center">Below you can see my main projects. ↓ </p>
+<p align="center">Below you can see my main projects. ↓ </p>
 
