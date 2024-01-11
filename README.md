@@ -12,5 +12,6 @@
 * HTML, CSS, JavaScript and React for web development
 * Sql and MySql are the are the databases that will be managed
 * Java and Python
-<h2 text-decoration: none, align="center">Below you can see my main projects. ↓ </h2>
+* 
+<p></p> text-decoration: none, align="center">Below you can see my main projects. ↓ </p>
 
