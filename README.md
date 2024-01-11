@@ -3,7 +3,7 @@
 
 I am studying systems engineering and I am currently in my 6th semester of the degree.
 
-### programming languages ​​that I use
+### Programming languages ​​that I use
 
 * HTML, CSS, JavaScript and React for web development
 * Sql and MySql are the are the databases that will be managed
